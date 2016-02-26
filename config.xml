@@ -5,15 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2005"
         version   = "2.4">
-    <name>Moodle Mobile</name>
+   <name>QuickerTutor Mobile</name>
+  <description>Official QuickerTutor Mobile app</description>
+  <author href="http://quickertutor.com" email="info@quickertutor.com">QuickerTutor</author>
 
-    <description>
-        Moodle Mobile official app
-    </description>
-
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
-    </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
         <string>2.4</string>
